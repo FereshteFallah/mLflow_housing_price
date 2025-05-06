@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/mlflow-housing-price/notebooks/mlruns/0/9545ed9f08914d7e8b4c055af08db7c6/artifacts
+end_time: 1746517517727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9545ed9f08914d7e8b4c055af08db7c6
+run_name: omniscient-steed-269
+run_uuid: 9545ed9f08914d7e8b4c055af08db7c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746517514002
+status: 3
+tags: []
+user_id: macbook

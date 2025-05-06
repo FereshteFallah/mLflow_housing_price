@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/mlflow-housing-price/notebooks/mlruns/0/3ed86398a30947e8ac8aa944eb9fc9d5/artifacts
+end_time: 1746517334689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ed86398a30947e8ac8aa944eb9fc9d5
+run_name: peaceful-jay-721
+run_uuid: 3ed86398a30947e8ac8aa944eb9fc9d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746517331472
+status: 3
+tags: []
+user_id: macbook

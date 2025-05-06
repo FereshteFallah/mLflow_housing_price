@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/mlflow-housing-price/notebooks/mlruns/0/ecbc2c4e74234a9192b647a6a4eb3ddc/artifacts
+end_time: 1746516959324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecbc2c4e74234a9192b647a6a4eb3ddc
+run_name: charming-snail-725
+run_uuid: ecbc2c4e74234a9192b647a6a4eb3ddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746516849325
+status: 3
+tags: []
+user_id: macbook

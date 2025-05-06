@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/mlflow-housing-price/notebooks/mlruns/0/e84b2135f3154344b4c45a4b7614e9df/artifacts
+end_time: 1746517167554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e84b2135f3154344b4c45a4b7614e9df
+run_name: polite-fowl-272
+run_uuid: e84b2135f3154344b4c45a4b7614e9df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746517163830
+status: 3
+tags: []
+user_id: macbook

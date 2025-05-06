@@ -1,0 +1,132 @@
+
+
+
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Housing price prediction  </title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f7fc;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 600px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            font-size: 16px;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+            background-color: #f9f9f9;
+        }
+
+        input[type="number"]:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            font-size: 18px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .form-footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Housing price prediction form</h1>
+        <form method="GET" action="/predict/">
+            <div class="form-group">
+                <label for="feature1">Average household income</label>
+                <input type="number" id="feature1" name="features" required placeholder="Average household income" step="any">
+            </div>
+
+            <div class="form-group">
+                <label for="feature2">Age of the house</label>
+                <input type="number" id="feature2" name="features" required placeholder="Age of the house" step="any">
+            </div>
+
+            <div class="form-group">
+                <label for="feature3">Average number of rooms</label>
+                <input type="number" id="feature3" name="features" required placeholder="Average number of rooms" step="any">
+            </div>
+
+            <div class="form-group">
+                <label for="feature4">Average number of people per household</label>
+                <input type="number" id="feature4" name="features" required placeholder="Average number of people per household" step="any">
+            </div>
+
+            <div class="form-group">
+                <label for="feature5">Latitude </label>
+                <input type="number" id="feature5" name="features" required placeholder="Latitude" step="any">
+            </div>
+
+            <div class="form-group">
+                <label for="feature6">Longitude </label>
+                <input type="number" id="feature6" name="features" required placeholder="Longitude " step="any">
+            </div>
+
+            <div class="form-group">
+                <label for="feature7">Population of the area</label>
+                <input type="number" id="feature7" name="features" required placeholder="Population of the area" step="any">
+            </div>
+
+            <div class="form-group">
+                <label for="feature8">Average house value</label>
+                <input type="number" id="feature8" name="features" required placeholder="Average house value" step="any">
+            </div>
+
+            <button type="submit">Price prediction </button>
+        </form>
+    </div>
+
+</body>
+</html>

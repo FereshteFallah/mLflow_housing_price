@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/mlflow-housing-price/notebooks/mlruns/0/d98008d5081c488b8dc718c0375e75d4/artifacts
+end_time: 1746517618570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d98008d5081c488b8dc718c0375e75d4
+run_name: shivering-shad-106
+run_uuid: d98008d5081c488b8dc718c0375e75d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746517615314
+status: 3
+tags: []
+user_id: macbook

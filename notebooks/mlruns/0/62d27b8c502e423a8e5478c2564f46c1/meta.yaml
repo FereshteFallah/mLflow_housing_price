@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/mlflow-housing-price/notebooks/mlruns/0/62d27b8c502e423a8e5478c2564f46c1/artifacts
+end_time: 1746517163827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62d27b8c502e423a8e5478c2564f46c1
+run_name: gaudy-seal-716
+run_uuid: 62d27b8c502e423a8e5478c2564f46c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746517157190
+status: 3
+tags: []
+user_id: macbook

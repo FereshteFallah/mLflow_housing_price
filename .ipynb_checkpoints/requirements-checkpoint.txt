@@ -1,0 +1,4 @@
+Django==5.2
+xgboost==1.7.0
+numpy==1.23.1
+mlflow==2.0.0

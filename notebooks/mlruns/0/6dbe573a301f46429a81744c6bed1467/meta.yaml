@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/mlflow-housing-price/notebooks/mlruns/0/6dbe573a301f46429a81744c6bed1467/artifacts
+end_time: 1746517341275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dbe573a301f46429a81744c6bed1467
+run_name: unequaled-horse-640
+run_uuid: 6dbe573a301f46429a81744c6bed1467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746517334692
+status: 3
+tags: []
+user_id: macbook

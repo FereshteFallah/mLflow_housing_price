@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/mlflow-housing-price/notebooks/mlruns/0/384edccdb68e4605a6028f6963f4e539/artifacts
+end_time: 1746517080803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 384edccdb68e4605a6028f6963f4e539
+run_name: languid-shrew-396
+run_uuid: 384edccdb68e4605a6028f6963f4e539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746517074336
+status: 3
+tags: []
+user_id: macbook

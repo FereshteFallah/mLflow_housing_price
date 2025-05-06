@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/mlflow-housing-price/notebooks/mlruns/0/a60012edb255423b825b88ef1efd9c30/artifacts
+end_time: 1746517084478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a60012edb255423b825b88ef1efd9c30
+run_name: traveling-kit-363
+run_uuid: a60012edb255423b825b88ef1efd9c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746517080806
+status: 3
+tags: []
+user_id: macbook

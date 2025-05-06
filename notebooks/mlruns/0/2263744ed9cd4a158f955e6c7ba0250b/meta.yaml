@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbook/mlflow-housing-price/notebooks/mlruns/0/2263744ed9cd4a158f955e6c7ba0250b/artifacts
+end_time: 1746516969289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2263744ed9cd4a158f955e6c7ba0250b
+run_name: charming-goose-494
+run_uuid: 2263744ed9cd4a158f955e6c7ba0250b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746516962719
+status: 3
+tags: []
+user_id: macbook
